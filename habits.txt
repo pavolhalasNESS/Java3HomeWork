@@ -5,3 +5,5 @@ Habits
 2. Je dolezite zamerat sa na hlavny ciel a neriesit nepodstatne veci ako napr. nastavenie vyvojoveho prostredia. Taktiez by sme nemali stravit prilis vela casu riesenim drobnej (malo podstatnej) chyby v programe.
 
 3. Mali by sme sa drzat konceptu jednoduchosti a konzistentnosti. Nas program by sme mali zachovat co najviac konzistntny a jednoduchy, aby ho ostatni ludia vedia lahko citat a upravovat.
+
+4. Denne by sme si mali vyhradit niekolko hodin kde sa plnohodnotne venujeme programovaniu bez akohokolvek prerusenia, aby sme za tento casovy usek boli co najviac produktivny.
