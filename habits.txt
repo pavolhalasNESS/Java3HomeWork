@@ -9,3 +9,5 @@ Habits
 4. Denne by sme si mali vyhradit niekolko hodin kde sa plnohodnotne venujeme programovaniu bez akohokolvek prerusenia, aby sme za tento casovy usek boli co najviac produktivny.
 
 5. Je potrebne sa neustale vzdelavat, ucit sa nove veci a vychadzat zo svojej komfortnej zony.
+
+6. Netreba sa bat opytat o pomoc, kolegovia castokrat vedia pomoct pri rieseni nejakeho problemu, pripadne najst efektivnejsie riesenie.
