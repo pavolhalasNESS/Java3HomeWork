@@ -7,3 +7,5 @@ Habits
 3. Mali by sme sa drzat konceptu jednoduchosti a konzistentnosti. Nas program by sme mali zachovat co najviac konzistntny a jednoduchy, aby ho ostatni ludia vedia lahko citat a upravovat.
 
 4. Denne by sme si mali vyhradit niekolko hodin kde sa plnohodnotne venujeme programovaniu bez akohokolvek prerusenia, aby sme za tento casovy usek boli co najviac produktivny.
+
+5. Je potrebne sa neustale vzdelavat, ucit sa nove veci a vychadzat zo svojej komfortnej zony.
